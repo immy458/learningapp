@@ -1,0 +1,7 @@
+C:\AZ-204 Training\bin\Publish\az-vm-test.exe
+C:\AZ-204 Training\bin\Publish\appsettings.Development.json
+C:\AZ-204 Training\bin\Publish\appsettings.json
+C:\AZ-204 Training\bin\Publish\az-vm-test.dll
+C:\AZ-204 Training\bin\Publish\az-vm-test.deps.json
+C:\AZ-204 Training\bin\Publish\az-vm-test.runtimeconfig.json
+C:\AZ-204 Training\bin\Publish\az-vm-test.pdb
