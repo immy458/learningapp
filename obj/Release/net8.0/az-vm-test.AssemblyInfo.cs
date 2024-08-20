@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("az-vm-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d073172930dfc00435774132bee197926bb237d")]
 [assembly: System.Reflection.AssemblyProductAttribute("az-vm-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("az-vm-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

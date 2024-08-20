@@ -28,3 +28,4 @@ C:\AZ-204 Training\az-vm-test\obj\Release\net8.0\refint\az-vm-test.dll
 C:\AZ-204 Training\az-vm-test\obj\Release\net8.0\az-vm-test.pdb
 C:\AZ-204 Training\az-vm-test\obj\Release\net8.0\az-vm-test.genruntimeconfig.cache
 C:\AZ-204 Training\az-vm-test\obj\Release\net8.0\ref\az-vm-test.dll
+C:\AZ-204 Training\az-vm-test\obj\Release\net8.0\az-vm-test.sourcelink.json
